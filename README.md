@@ -1,7 +1,7 @@
 # Human-activity-recognition
 
 action_recognition_kinetics.txt : The class labels for the Kinetics dataset.
-resnet-34_kinetics.onx : Hara et al.’s pre-trained and serialized human activity recognition convolutional neural network trained on the Kinetics dataset.
+resnet-34_kinetics.onx : Hara et al.’s pre-trained and serialized human activity recognition convolutional neural network trained on the Kinetics dataset.Model Link https://drive.google.com/drive/folders/13kswALlOLN6bap5ExqC-q0SNB3D2cnKQ
 example_activities.mp4 : A compilation of clips for testing human activity recognition.
 We will review two Python scripts, each of which accepts the above three files as input:
 
